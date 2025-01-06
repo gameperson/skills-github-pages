@@ -2,4 +2,4 @@
 title: Welcome to my blog
 ---
 
-blog content and stuff
+[https://gameperson.github.io/skills-github-pages/](https://gameperson.github.io/skills-github-pages/)
